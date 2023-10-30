@@ -1,4 +1,4 @@
-Live Hosted Link : 
+Live Hosted Link : https://lighthearted-truffle-bca37e.netlify.app/
 Tools Used : HTML, CSS, Javascript & Bootstrap.
 # 🛒 Shop till You Drop | Your One-Stop solution to E-Commerce Destination
 # 💼 Discover, Browse, and Buy | Your Online Retail Therapy
